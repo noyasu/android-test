@@ -1,3 +1,0 @@
-gitkraken
-hoge
-foga
