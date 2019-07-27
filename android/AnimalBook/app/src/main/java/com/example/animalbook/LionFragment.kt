@@ -27,5 +27,7 @@ class LionFragment : Fragment() {
         return inflater.inflate(R.layout.fragment_lion, container, false)
     }
 
+    
+
 
 }
