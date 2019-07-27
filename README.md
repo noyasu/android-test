@@ -4,3 +4,4 @@ git
 kraken
 
 marge
+gitmarge
